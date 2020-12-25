@@ -27,7 +27,6 @@ linkedin_username: srhranga
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-#Passion
  
 Recognized expert in Physical Design Synthesis within IBM EDA and in the EDA industry outside, having contributions and leadership over the last 19 years in architecting and developing physical design tools and solutions.
 Technical leader currently driving a team of around 10 people in design and development of next generation tools and solutions for microprocessor design. 
