@@ -28,12 +28,6 @@ linkedin_username: srhranga
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
  
-Recognized expert in Physical Design Synthesis within IBM EDA and in the EDA industry outside, having contributions and leadership over the last 19 years in architecting and developing physical design tools and solutions.
-Technical leader currently driving a team of around 10 people in design and development of next generation tools and solutions for microprocessor design. 
-Visiting faculty in IIT Chennai – As part of it teach Advanced VLSI course to Masters and PhD students.
-Active member of the local Semiconductor community - Invited chair at VLSI Conference 2015 and as a Design Contest Program chair for VLSI Conference 2016.    
-Patent portfolio of around 12 patents and publications in leading EDA conferences.
-
 Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
