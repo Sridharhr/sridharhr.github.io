@@ -214,26 +214,26 @@ content:
   - title: Patents
     layout: text
     content: | # this will include new lines to allow paragraphs
-       1 **10,534,545** Three-dimensional stacked memory optimizations for latency and power <br>
-       2	**10,528,288** Three-dimensional stacked memory access optimization <br>
-       3	**10,318,689** Integrated circuit logic extraction using cloning and expansion for engineering change order <br>
-       4	**10,223,491** Integrated circuit design changes using through-silicon vias <br>
-       5	**10,216,885** Adjusting scan connections based on scan control locations <br>
-       6	**10,168,386** Scan chain latency reduction <br>
-       7	**10,140,414** Critical region identification <br>
-       8	 **9,934,348** Adjusting scan connections based on scan control locations <br>
-       9	 **9,659,140** Critical region identification <br>
-      10	 **9,633,928** Through-silicon via access device for integrated circuits <br>
-      11	 **9,569,580** Integrated circuit design changes using through-silicon vias <br>
-      12	 **9,557,381** Physically aware insertion of diagnostic circuit elements <br>
-      13	 **9,501,603** Integrated circuit design changes using through-silicon vias <br>
-      14	 **9,412,682** Through-silicon via access device for integrated circuits <br>
-      15	 **9,378,326** Critical region identification <br>
-      16	 **9,087,168** Optimizing operating range of an electronic circuit <br>
-      17	 **8,826,208** Computational thermal analysis during microchip design <br>
-      18	 **8,638,120** Programmable gate array as drivers for data ports of spare latches <br>
-      19	 **8,572,536** Spare latch distribution <br>
-      20	 **8,495,553** Native threshold voltage switching <br>
+      1  **10,534,545** Three-dimensional stacked memory optimizations for latency and power <br>
+      2  **10,528,288** Three-dimensional stacked memory access optimization <br>
+      3  **10,318,689** Integrated circuit logic extraction using cloning and expansion for engineering change order <br>
+      4	 **10,223,491** Integrated circuit design changes using through-silicon vias <br>
+      5  **10,216,885** Adjusting scan connections based on scan control locations <br>
+      6  **10,168,386** Scan chain latency reduction <br>
+      7	 **10,140,414** Critical region identification <br>
+      8	  **9,934,348** Adjusting scan connections based on scan control locations <br>
+      9	  **9,659,140** Critical region identification <br>
+      10  **9,633,928** Through-silicon via access device for integrated circuits <br>
+      11  **9,569,580** Integrated circuit design changes using through-silicon vias <br>
+      12	**9,557,381** Physically aware insertion of diagnostic circuit elements <br>
+      13	**9,501,603** Integrated circuit design changes using through-silicon vias <br>
+      14	**9,412,682** Through-silicon via access device for integrated circuits <br>
+      15	**9,378,326** Critical region identification <br>
+      16	**9,087,168** Optimizing operating range of an electronic circuit <br>
+      17	**8,826,208** Computational thermal analysis during microchip design <br>
+      18	**8,638,120** Programmable gate array as drivers for data ports of spare latches <br>
+      19	**8,572,536** Spare latch distribution <br>
+      20	**8,495,553** Native threshold voltage switching <br>
       <br>
 
   - title: Publications
