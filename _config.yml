@@ -177,29 +177,36 @@ content:
     content:
       - layout: top-right
         title: M.S. Computer Engineering
-        sub_title: Qualifications (eg. BA Performing Arts)
+        #sub_title: Qualifications (eg. BA Performing Arts)
         caption: 2001-2003
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
       - layout: top-right
         title: B.E Computer Science
-        sub_title: Qualifications (eg. BA Performing Arts)
+        #sub_title: Qualifications (eg. BA Performing Arts)
         caption: 1992-1997
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification          
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification          
       - layout: top-right
         title: MSc. Economics
-        sub_title: Qualifications (eg. BA Performing Arts)
+        #sub_title: Qualifications (eg. BA Performing Arts)
         caption: 1992-1997
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification              
-          
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification              
+         
+  -title: Recognition
+    layout: text
+    content: |
+    1. Outstanding Technical Achievement Award (2016) - This award was granted for the technical leadership and contributions towards successfully deploying incremental tools and methodlogy for Power prcoessor which helped in significant improvement in TTM resulting in $$ savings. <br>
+    2. Eminence and Excellence Award (2015) - This award was granted for individuals who demonstrated significant impact to IBM business through technical contributions and leadership behaviors. I was awarded for leading the effort of ECO methodlogy and solution for ZHelix tapeout. <br>
+    3. Outstanding Technical Achievement Award (2013) - This award wasgranted for the etchnical contributios towards power optimization efforts in P8 <br>
+    <br>
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
