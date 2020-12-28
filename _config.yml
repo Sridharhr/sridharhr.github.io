@@ -101,7 +101,7 @@ content:
           - Simultaneous leakage and dynamic power optimization in the circuit level <br>
           - Involved in developing solution a quick routing estimation tool for congestion mitigation during placement and optimization <br>
           - Develop the methodology and flow for 32nm design technology <br>
-    #content:
+    
       - layout: right
         title: IBM  
         sub_title: STSM
@@ -112,26 +112,94 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Architect a hybrid data model using Titan and spark for EDA 3.0 analytics and distributed processing <br>
           - Architect and develop incremental solution for physical design <br>
-          - Incremental Synthesis <br>
-          - Region Based synthesis <br>
           - ECO – Logic differentiation Extractor <br>
           - Physical aware scan control insertion to improve yield <br>
           - Auto pipelining of data path logic using min delay and min area retiming <br>
-          - Simultaneous leakage and dynamic power optimization in the circuit level <br>
+          - Simultaneous leakage and dynamic power optimization in the circuit level design <br>
           - Involved in developing solution a quick routing estimation tool for congestion mitigation during placement and optimization <br>
           - Develop the methodology and flow for 32nm design technology <br>
+          <br>
+      - layout: right
+        title: Synopsys Inc.  
+        sub_title: Senior Staff Engineer
+        caption: June 2006 - Aug 2008
+        #link: Link to company (optional)
+        quote: >
+          Design and development of next generation routing solution as part of Zroute team. Involved in design and development of 45 and 32nm design rules <br>
+        description: | # this will include new lines to allow paragraphs
+          - Involved in developing and enhancing the connectivity graph model for detail router <br>
+          - Involved in detail analysis of customer requirements for 45 and 32nm design rules and architect solutions <br>
+          - Design and develop the solution for spreading wires to attain better yield by improving critical area shorts <br>
+          <br>
+      - layout: right
+        title: Sun Microsystems Inc.  
+        sub_title: Staff Engineer
+        caption: May 2003 - June 2006
+        #link: Link to company (optional)
+        quote: >
+          Involved in architecting and development of solutions for physical design tools. Worked in core parts of the detailed router that include search engine, Ripup reroute, DRC and scheduling <br>
+        description: | # this will include new lines to allow paragraphs
+          - Involved in architecting and leading a team in design and development of clock and power router for microprocessor designs <br>
+          - Lead a team in development of post routing DRC correction. This includes jog, notch, min area and min width fixes <br>
+          - Involved in development and maintenance of core algorithms like search engine, cost model, ripup and reroute <br>
+          - Developed an algorithm for finding better ripup targets during path search <br>
+          <br>
+      - layout: right
+        title: Monterey Design Systems Inc.  
+        sub_title: Sr. Software Engineer
+        caption: Dec 2000 - May 2003
+        #link: Link to company (optional)
+        quote: >
+          Involved in developing/enhancing placement and routing infrastructure for dolphin  <br>
+        description: | # this will include new lines to allow paragraphs
+          - Enhanced ECO flow to have incremental netlist, placement and routing capabilities <br>
+          - Developed the algorithm to update hierarchy to maintain synchronization between flat and hierarchical netlist representation <br>
+          - Developed API class interface to make changes in dolphin with undo/redo capabilities <br>
+          - Developed and implemented the algorithm for comparing two netlists and incrementally adding the changes <br>
+          <br>
+
+      - layout: right
+        title: Cadence Design Systems 
+        sub_title: Member of Technical Staff
+        caption: June 1997 - Dec 2000
+        #link: Link to company (optional)
+        quote: >
+          Part of PCB division, involved in developing tools, which serves synchronization between front and back end.   <br>
+        description: | # this will include new lines to allow paragraphs
+          - Involved in the design and development of integration tool between capture and allegro design tools <br>
+          - Developed the algorithm for finding the differences between allegro and concept and synchronize them <br>
+          - Developed API classes using C++ to access netlist information <br>
+          <br>
+          
           <br>
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
+        title: M.S. Computer Engineering
         sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        caption: 2001-2003
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+      - layout: top-right
+        title: B.E Computer Science
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: 1992-1997
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification          
+      - layout: top-right
+        title: MSc. Economics
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: 1992-1997
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification              
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
