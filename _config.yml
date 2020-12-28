@@ -28,32 +28,31 @@ linkedin_username: srhranga
 about_profile_image: images/passport2.png
 about_content: | # this will include new lines to allow paragraphs
 
-Passion: 
-I am passionate about architecting and developing solutions for EDA 3.0 using Big Data and Machine Learning technologies
-Passionate about bringing new technologies to market and have developed multiple enterprise software products that have resulted in multi-million dollar revenues. 
+  ## Passion
+  I am passionate about architecting and developing solutions for EDA 3.0 using Big Data and Machine Learning technologies
+  Passionate about bringing new technologies to market and have developed multiple enterprise software products that have resulted in multi-million dollar revenues. 
 
-Leadership Experience: 
-I have 10+ years’ experience in leading teams (Technical Leads, Principal Engineers, and Product Engineers), strategic initiatives and leading organizational change. 
-Build & nurture RD and PE team of around 10 engineers from scratch. Provided organizational leadership to improve Technical vitality and foster innovation. 
+  ## Leadership Experience
+  I have 10+ years’ experience in leading teams (Technical Leads, Principal Engineers, and Product Engineers), strategic initiatives and leading organizational change. 
+  Build & nurture RD and PE team of around 10 engineers from scratch. Provided organizational leadership to improve Technical vitality and foster innovation. 
 
-Technical Experience:
-20+ years of experience in architecting and developing next generation physical design tools and solutions.
-Led design, development and release of an on-premise AI product to improve performance by 2X.
-20 patents and 5 publications in the areas of Physical synthesis, power optimization and Incremental methodologies. 
-Visiting faculty in IIT Chennai – As part of it teach Advanced VLSI course to Masters and PhD students.
-Active member of the local Semiconductor community - Invited chair at VLSI Conference 2015 and as a Design Contest Program chair for VLSI Conference 2016.    
+  ## Technical Experience
+  20+ years of experience in architecting and developing next generation physical design tools and solutions.
+  Led design, development and release of an on-premise AI product to improve performance by 2X.
+  20 patents and 5 publications in the areas of Physical synthesis, power optimization and Incremental methodologies. 
+  Visiting faculty in IIT Chennai – As part of it teach Advanced VLSI course to Masters and PhD students.
+  Active member of the local Semiconductor community - Invited chair at VLSI Conference 2015 and as a Design Contest Program chair for VLSI Conference 2016.    
 
-My approach:
-Understanding business requirements and stakeholders
-Discover the opportunities for technology intervention and apply latest technology stack
-MVP design and continuous feedback from stakeholders
+  ## My approach
+  Understanding business requirements and stakeholders
+  Discover the opportunities for technology intervention and apply latest technology stack
+  MVP design and continuous feedback from stakeholders
 
-My Belief:
-Innovation and growth oriented mindset
-Lead by Example
-Openness in communication
-Customer first attitude
-
+  ## My Belief
+  Innovation and growth oriented mindset
+  Lead by Example
+  Openness in communication
+  Customer first attitude
   
 content:
   - title: Projects # Title for the section
