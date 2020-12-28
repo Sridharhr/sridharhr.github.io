@@ -16,7 +16,7 @@ phone_title: Phone
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 twitter_username: srhranga
@@ -164,7 +164,7 @@ content:
         caption: June 1997 - Dec 2000
         #link: Link to company (optional)
         quote: >
-          Part of PCB division, involved in developing tools, which serves synchronization between front and back end.   <br>
+          **Part of PCB division, involved in developing tools, which serves synchronization between front and back end**   <br>
         description: | # this will include new lines to allow paragraphs
           - Involved in the design and development of integration tool between capture and allegro design tools <br>
           - Developed the algorithm for finding the differences between allegro and concept and synchronize them <br>
@@ -200,7 +200,7 @@ content:
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification              
          
-  - title: Recognition
+  - title: **Recognition**
     layout: text
     content: |
     
@@ -214,8 +214,8 @@ content:
   - title: Patents
     layout: text
     content: | # this will include new lines to allow paragraphs
-      1  **10,534,545** Three-dimensional stacked memory optimizations for latency and power <br>
-      2  **10,528,288** Three-dimensional stacked memory access optimization <br>
+      1.  **10,534,545** Three-dimensional stacked memory optimizations for latency and power <br>
+      2.  **10,528,288** Three-dimensional stacked memory access optimization <br>
       3  **10,318,689** Integrated circuit logic extraction using cloning and expansion for engineering change order <br>
       4	 **10,223,491** Integrated circuit design changes using through-silicon vias <br>
       5  **10,216,885** Adjusting scan connections based on scan control locations <br>
@@ -243,7 +243,7 @@ content:
       **Sridhar Rangarajan**, George Antony Shyam Ramji, Nitin Chandrachoodan <br>
       ASP DAC, 2016 <br>
       <br>
-      IBM z13 Circuit Design and Methodology <br>
+      **IBM z13 Circuit Design and Methodology** <br>
       James. Warnock, Chris. Berry, **Sridhar Rangarajan** et. Al <br>
       IBM J. Res. & Dev, 2015 <br>
       <br>
@@ -251,7 +251,7 @@ content:
       **Rangarajan, Sridhar** and Chakrabarti, Pinaki and Sahais, Sourav and Datta, Ayan and Subramanya, Adarsh  <br>
       2014 27th International Conference on VLSI Design and 2014 13th International Conference on Embedded Systems, pp. 7--8 <br>
       <br>
-      **A faster hierarchical balanced bipartitioner for VLSI floorplans using monotone staircase cuts**
+      **A faster hierarchical balanced bipartitioner for VLSI floorplans using monotone staircase cuts** <br>
       Kar, Bapi and Sur-Kolay, Susmita and **Rangarajan, Sridhar H** and Mandal, Chittaranjan R <br>
       Progress in VLSI Design and Test, pp. 327--336, Springer, 2012  <br>
       <br>
