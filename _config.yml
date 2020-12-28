@@ -200,7 +200,7 @@ content:
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification              
          
-  - title: **Recognition**
+  - title: Recognition
     layout: text
     content: |
     
