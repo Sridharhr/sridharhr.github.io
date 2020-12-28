@@ -164,7 +164,7 @@ content:
         caption: June 1997 - Dec 2000
         #link: Link to company (optional)
         quote: >
-          **Part of PCB division, involved in developing tools, which serves synchronization between front and back end**   <br>
+          Part of PCB division, involved in developing tools, which serves synchronization between front and back end   <br>
         description: | # this will include new lines to allow paragraphs
           - Involved in the design and development of integration tool between capture and allegro design tools <br>
           - Developed the algorithm for finding the differences between allegro and concept and synchronize them <br>
@@ -204,7 +204,8 @@ content:
     layout: text
     content: |
     
-      1 **Outstanding Technical Achievement Award (2016)** - This award was granted for the technical leadership and contributions towards successfully deploying incremental tools and methodlogy for Power prcoessor which helped in significant improvement in TTM resulting in $$ savings. <br>
+      1 **Outstanding Technical Achievement Award (2016)** - This award was granted for the technical leadership and contributions towards successfully deploying incremental tools and methodlogy <br>
+      for Power prcoessor which helped in significant improvement in TTM resulting in $$ savings. <br>
       <br>
       2 **Eminence and Excellence Award (2015)** - This award was granted for individuals who demonstrated significant impact to IBM business through technical contributions and leadership behaviors. I was awarded for leading the effort of ECO methodlogy and solution for ZHelix tapeout. <br>
       <br>
@@ -214,8 +215,8 @@ content:
   - title: Patents
     layout: text
     content: | # this will include new lines to allow paragraphs
-      1.  **10,534,545** Three-dimensional stacked memory optimizations for latency and power <br>
-      2.  **10,528,288** Three-dimensional stacked memory access optimization <br>
+      1  **10,534,545** Three-dimensional stacked memory optimizations for latency and power <br>
+      2  **10,528,288** Three-dimensional stacked memory access optimization <br>
       3  **10,318,689** Integrated circuit logic extraction using cloning and expansion for engineering change order <br>
       4	 **10,223,491** Integrated circuit design changes using through-silicon vias <br>
       5  **10,216,885** Adjusting scan connections based on scan control locations <br>
