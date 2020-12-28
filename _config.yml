@@ -101,7 +101,7 @@ content:
           - Simultaneous leakage and dynamic power optimization in the circuit level <br>
           - Involved in developing solution a quick routing estimation tool for congestion mitigation during placement and optimization <br>
           - Develop the methodology and flow for 32nm design technology <br>
-    content:
+    #content:
       - layout: right
         title: IBM  
         sub_title: STSM
