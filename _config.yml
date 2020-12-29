@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   ## **Passion**
   - I am passionate about architecting and developing solutions for EDA 3.0 using Big Data and Machine Learning technologies <br>
-  - Passionate about bringing new technologies to market and have developed multiple enterprise software products that have resulted in multi-million dollar revenues  <br>
+  - Passionate about bringing new technologies to market and have developed multiple enterprise software products that have resulted in significant revenue impact  <br>
   <br>
   
 
@@ -42,7 +42,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   ## **Technical Experience**
   - 20+ years of experience in architecting and developing next generation physical design tools and solutions <br>
-  - Led design, development and release of an on-premise AI product to improve performance by 2X <br>
+  - Led design, development and release of an on premise AI product to improve performance by 2X <br>
   - 20 patents and 5 publications in the areas of Physical synthesis, power optimization and Incremental methodologies <br>
   - Visiting faculty in IIT Chennai – As part of it teach Advanced VLSI course to Masters and PhD students <br>
   - Active member of the local Semiconductor community - Invited chair at VLSI Conference 2015 and as a Design Contest Program chair for VLSI Conference 2016  <br>
@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   <br>
 
   ## **My Belief**
-  - Innovation and growth oriented mindset <br>
+  - Innovation and growth oriented mind-set <br>
   - Lead by Example <br>
   - Openness in communication <br>
   - Customer first attitude <br>
@@ -89,19 +89,14 @@ content:
         caption: Dec 2017 - Present
         #link: Link to company (optional)
         quote: >
-          Manage RnD & PE team for Nitro Place & route solution <br>
+          Manage RnD & PE team for Nitro Place & Route solution <br>
         description: | # this will include new lines to allow paragraphs
-          - Architect a hybrid data model using Titan and spark for EDA 3.0 analytics and distributed processing <br>
-          - Architect and develop incremental solution for physical design <br>
-          - Incremental Synthesis <br>
-          - Region Based synthesis <br>
-          - ECO – Logic differentiation Extractor <br>
-          - Physical aware scan control insertion to improve yield <br>
-          - Auto pipelining of data path logic using min delay and min area retiming <br>
-          - Simultaneous leakage and dynamic power optimization in the circuit level <br>
-          - Involved in developing solution a quick routing estimation tool for congestion mitigation during placement and optimization <br>
-          - Develop the methodology and flow for 32nm design technology <br>
-    
+          - Built the team from scratch to 10 engineers working on Nitro PnR <br>
+          - Drive the strategy and direction for AL in Nitro PnR <br>
+          - Predictive modelling of xforms for WNS optimization resulting in 3x TAT improvement <br>
+          - Reinforcement Learning based Macro Placement <br>
+          - Learning based Automatic Design Convergence System using reciepes to effectively converge on a design with minimal user intervention <br>
+          <br>
       - layout: right
         title: IBM  
         sub_title: STSM
@@ -204,12 +199,11 @@ content:
     layout: text
     content: |
     
-      1 **Outstanding Technical Achievement Award (2016)** - This award was granted for the technical leadership and contributions towards successfully deploying incremental tools and methodlogy <br>
-      for Power prcoessor which helped in significant improvement in TTM resulting in $$ savings. <br>
+      1 **Outstanding Technical Achievement Award (2016)** - This award was granted for the technical leadership and contributions towards successfully deploying incremental tools and methodology for Power processor which helped in significant improvement in TTM resulting in $$ savings. <br>
       <br>
-      2 **Eminence and Excellence Award (2015)** - This award was granted for individuals who demonstrated significant impact to IBM business through technical contributions and leadership behaviors. I was awarded for leading the effort of ECO methodlogy and solution for ZHelix tapeout. <br>
+      2 **Eminence and Excellence Award (2015)** - This award was granted for individuals who demonstrated significant impact to IBM business through technical contributions and leadership behaviours. I was awarded for leading the effort of ECO methodology and solution for ZHelix tapeout. <br>
       <br>
-      3 **Outstanding Technical Achievement Award (2013)** - This award wasgranted for the etchnical contributios towards power optimization efforts in P8 <br>
+      3 **Outstanding Technical Achievement Award (2013)** - This award was granted for the technical contributions towards power optimization efforts in P8 <br>
       <br>
       <br>
   - title: Patents
@@ -265,7 +259,7 @@ footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
