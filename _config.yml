@@ -46,6 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
   - 20 patents and 5 publications in the areas of Physical synthesis, power optimization and Incremental methodologies <br>
   - Visiting faculty in IIT Chennai – As part of it teach Advanced VLSI course to Masters and PhD students <br>
   - Active member of the local Semiconductor community - Invited chair at VLSI Conference 2015 and as a Design Contest Program chair for VLSI Conference 2016  <br>
+  - IBM Invention Disclosure Board Chair <br>
   <br>
 
   ## **My approach** 
@@ -111,7 +112,7 @@ content:
           - Physical aware scan control insertion to improve yield <br>
           - Auto pipelining of data path logic using min delay and min area retiming <br>
           - Simultaneous leakage and dynamic power optimization in the circuit level design <br>
-          - Involved in developing solution a quick routing estimation tool for congestion mitigation during placement and optimization <br>
+          - Involved in developing a quick routing estimation tool for congestion mitigation during placement and optimization <br>
           - Develop the methodology and flow for 32nm design technology <br>
           <br>
       - layout: right
