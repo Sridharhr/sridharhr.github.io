@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   ## **Passion**
   - I am passionate about architecting and developing solutions for EDA 3.0 using Big Data and Machine Learning technologies <br>
-  - Passionate about bringing new technologies to market and have developed multiple enterprise software products that have resulted in significant revenue impact  <br>
+  - I am passionate about bringing new technologies to market and have developed multiple enterprise software products that have resulted in significant revenue impact  <br>
   <br>
   
 
@@ -93,7 +93,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Built the team from scratch to 10 engineers working on Nitro PnR <br>
           - Drive the strategy and direction for AL in Nitro PnR <br>
-          - Predictive modelling of xforms for WNS optimization resulting in 3x TAT improvement <br>
+          - Predictive modelling of xforms for WNS optimization resulting in 2x TAT improvement <br>
           - Reinforcement Learning based Macro Placement <br>
           - Learning based Automatic Design Convergence System using recipes to effectively converge on a design with minimal user intervention <br>
           <br>
@@ -105,7 +105,7 @@ content:
         quote: >
           Lead a team to develop next generation physical design incremental solutions for microprocessor design <br>
         description: | # this will include new lines to allow paragraphs
-          - Architect a hybrid data model using Titan and spark for EDA 3.0 analytics and distributed processing <br>
+          - Architect a hybrid data model using Titan/Neo4j and spark for EDA 3.0 analytics and distributed processing <br>
           - Architect and develop incremental solution for physical design <br>
           - ECO – Logic differentiation Extractor <br>
           - Physical aware scan control insertion to improve yield <br>
